@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="padding1">6dp</dimen>
+    <dimen name="padding2">8dp</dimen>
+    <dimen name="titleSize">18sp</dimen>
+    <dimen name="sectionSize">16sp</dimen>
+    <dimen name="urlSize">16sp</dimen>
+    <dimen name="dateSize">14sp</dimen>
+
+</resources>

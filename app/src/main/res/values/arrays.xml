@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="search_settings">
+        <item>@string/search_for_society</item>
+        <item>@string/search_for_politics</item>
+        <item>@string/search_for_life_and_style</item>
+        <item>@string/search_for_fashion</item>
+        <item>@string/search_for_health</item>
+        <item>@string/search_for_travel</item>
+        <item>@string/search_for_sport</item>
+
+    </string-array>
+
+</resources>
